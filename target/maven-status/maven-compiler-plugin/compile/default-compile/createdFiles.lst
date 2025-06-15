@@ -1,0 +1,6 @@
+com\Vmedico\Configuration\SecurityConfiguration.class
+com\Vmedico\Configuration\AppInitializer.class
+com\Vmedico\Configuration\SecurityInitalizer.class
+com\Vmedico\Configuration\AppConfiguration.class
+com\Vmedico\Controller\SecurityController.class
+com\Vmedico\Controller\AppController.class
